@@ -7,4 +7,7 @@
     <string name="password">Password :</string>
     <string name="name">Display Name</string>
     <string name="register">New Register</string>
+
+    <string name="title_space">กรอกไม่ครบคะ</string>
+    <string name="message_space">โปรดกรอกทุกช่องคะ</string>
 </resources>
